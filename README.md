@@ -1,2 +1,2 @@
 # RFID-Door-Access-System
-I have created this proect using Cisco Packet Tracer.
+I have created this project using Cisco Packet Tracer.
